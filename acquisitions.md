@@ -7,7 +7,8 @@ nav_order: 1
 # Acquisitions and Appraisal
 A guide for curatorial staff.
 
-## Initial Collection Offer
+<details>
+<summary >Initial Collection Offer</summary>
 Curators:
 
 - Share the Donor Guide for Digital Materials and walk donor through the checklist carefully
@@ -20,3 +21,5 @@ Curators:
   - Approximate quantity
   - Private or legally protected files
   - Presence of other people's intellectual property
+
+</details>
